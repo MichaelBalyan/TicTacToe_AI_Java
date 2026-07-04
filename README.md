@@ -1,7 +1,7 @@
 <h1>🎮 Tic-Tac-Toe (Java Implementation)</h1>
 
 <p>
-A Java implementation of the classic Tic-Tac-Toe game featuring a strategic computer opponent
+A Java implementation of the classic Tic-Tac-Toe game featuring a strategic computer opponent (my created "AI") 
 and a clean, maintainable architecture based on Object-Oriented Programming principles.
 </p>
 
