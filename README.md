@@ -50,3 +50,7 @@ and a clean, maintainable architecture based on Object-Oriented Programming prin
     <li>Guard Clauses (Early Return)</li>
     <li>Helper Methods</li>
 </ul>
+
+## 📌 Purpose
+
+This project was developed to improve Java software development skills by building a complete Tic-Tac-Toe game while applying Object-Oriented Programming, encapsulation, guard clauses, reusable helper methods, and clean code principles.
