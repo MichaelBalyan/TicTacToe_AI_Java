@@ -1,4 +1,4 @@
-<h1>🎮 Tic-Tac-Toe with Smart AI (Java)</h1>
+<h1>🎮 Tic-Tac-Toe with Smart AI (Java Implementation)</h1>
 
 <p>
 A Java implementation of the classic Tic-Tac-Toe game featuring a strategic AI opponent
