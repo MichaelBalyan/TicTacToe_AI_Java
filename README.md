@@ -1,7 +1,7 @@
-<h1>🎮 Tic-Tac-Toe with Smart AI (Java Implementation)</h1>
+<h1>🎮 Tic-Tac-Toe (Java Implementation)</h1>
 
 <p>
-A Java implementation of the classic Tic-Tac-Toe game featuring a strategic AI opponent
+A Java implementation of the classic Tic-Tac-Toe game featuring a strategic computer opponent
 and a clean, maintainable architecture based on Object-Oriented Programming principles.
 </p>
 
@@ -9,8 +9,8 @@ and a clean, maintainable architecture based on Object-Oriented Programming prin
 
 <ul>
     <li>
-        <strong>Strategic AI:</strong> The AI analyzes the board to make offensive and
-        defensive decisions instead of choosing random moves.
+        <strong>Strategic Computer Opponent:</strong> The game logic analyzes the board to
+        make offensive and defensive decisions instead of choosing random moves.
     </li>
     <li>
         <strong>Object-Oriented Design:</strong> Built using encapsulation to ensure a
@@ -30,9 +30,9 @@ and a clean, maintainable architecture based on Object-Oriented Programming prin
     </li>
 </ul>
 
-<h2>🧠 How the AI Works</h2>
+<h2>🧠 Decision-Making Logic</h2>
 
-<p>The AI evaluates the current board state to:</p>
+<p>The computer opponent evaluates the current board state to:</p>
 
 <ul>
     <li>Detect immediate winning opportunities.</li>
